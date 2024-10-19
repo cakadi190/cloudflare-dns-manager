@@ -1,0 +1,10 @@
+requests
+json
+os
+json
+signal
+inquirer
+getpass
+msvcrt
+textwrap
+tabulate
